@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dish-management/static/css/main.2f6dbd13.chunk.css",
+    "main.js": "/dish-management/static/js/main.6d5d1ca7.chunk.js",
+    "main.js.map": "/dish-management/static/js/main.6d5d1ca7.chunk.js.map",
+    "runtime-main.js": "/dish-management/static/js/runtime-main.d8163607.js",
+    "runtime-main.js.map": "/dish-management/static/js/runtime-main.d8163607.js.map",
+    "static/css/2.d34346ea.chunk.css": "/dish-management/static/css/2.d34346ea.chunk.css",
+    "static/js/2.ec49ca37.chunk.js": "/dish-management/static/js/2.ec49ca37.chunk.js",
+    "static/js/2.ec49ca37.chunk.js.map": "/dish-management/static/js/2.ec49ca37.chunk.js.map",
+    "index.html": "/dish-management/index.html",
+    "precache-manifest.257a378688285a638b985c277d05f67a.js": "/dish-management/precache-manifest.257a378688285a638b985c277d05f67a.js",
+    "service-worker.js": "/dish-management/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/dish-management/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.2f6dbd13.chunk.css.map": "/dish-management/static/css/main.2f6dbd13.chunk.css.map",
+    "static/js/2.ec49ca37.chunk.js.LICENSE.txt": "/dish-management/static/js/2.ec49ca37.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dish-management/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8163607.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.ec49ca37.chunk.js",
+    "static/css/main.2f6dbd13.chunk.css",
+    "static/js/main.6d5d1ca7.chunk.js"
+  ]
+}
